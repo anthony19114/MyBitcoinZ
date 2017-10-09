@@ -2,10 +2,10 @@
   "//":"Changes to this file will be overwritten",
   "//":"        Modify it in the app-template directory", 
 
-  "name": "copay",
-  "description": "A Secure Bitcoin Wallet",
-  "author": "BitPay",
-  "version": "3.8.2",
+  "name": "MyBitcoinZ",
+  "description": "A Secure BitcoinZ Wallet",
+  "author": "BTCZCOM",
+  "version": "1.0.0",
   "keywords": [
     "bitcoin",
     "wallet",
@@ -15,9 +15,9 @@
     "bitcore"
   ],
   "main": "www/index.html",
-  "title": "Copay",
+  "title": "MyBitcoinZ",
   "window": {
-    "title": "Copay - Copay Bitcoin Wallet",
+    "title": "MyBitcoinZ - MyBitcoinZ Bitcoin Wallet",
     "icon": "www/img/app/icon.png",
     "toolbar": false,
     "show": true,
@@ -39,14 +39,14 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://copay.io",
+  "homepage": "https://suite.bitcoinz.ph",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/bitpay/copay.git",
+    "url": "git://github.com/anthony19114/mybitcoinz.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/copay/issues"
+    "url": "https://github.com/anthony19114/mybitcoinz/issues"
   },
   "engines": {
    "node": "6",

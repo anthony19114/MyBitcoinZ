@@ -32,7 +32,6 @@
           <span ng-show="hasWallets" translate>To get started, buy bitcoinz or share your address. You can receive bitcoinz from any wallet or service.</span>
           <span ng-show="!hasWallets" translate>To get started, you'll need to create a bitcoinz wallet and get some bitcoinz.</span>
           <div class="padding">
-            <button class="button button-standard button-primary" ng-click="buyBitcoin()" ng-show="hasWallets" translate>Buy BitcoinZ</button>
             <button class="button button-standard button-primary" ng-click="createWallet()" ng-show="!hasWallets" translate>Create BitcoinZ wallet</button>
             <button class="button button-standard button-secondary" ui-sref="tabs.receive" ng-show="hasWallets" translate>Show BitcoinZ address</button>
           </div>

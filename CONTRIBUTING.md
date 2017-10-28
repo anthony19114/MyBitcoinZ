@@ -1,5 +1,5 @@
 
-# Contributing to Copay
+# Contributing to MyBitcoinZ
 
 Please take a moment to review this document in order to make the contribution
 process easy and effective for everyone involved.
@@ -73,28 +73,28 @@ provide as much detail and context as possible.
 <a name="support"></a>
 ## Support requests
 
-If you are having particular problem with your Copay instalation, please first [search older 
-issues](https://github.com/bitpay/copay/issues) in order to learn if the issue is already reported. It could be fixed already. 
+If you are having particular problem with your MyBitcoinZ instalation, please first [search older
+issues](https://github.com/anthony19114/MyBitcoinZ/issues) in order to learn if the issue is already reported. It could be fixed already.
 
-Please also check our [FAQ](https://github.com/bitpay/copay/wiki/COPAY---FAQ).
+Please also check our the copay [FAQ](https://github.com/bitpay/copay/wiki/COPAY---FAQ).
 
 When requesting support describe the issue as much in detail as possible. Consider to
 provide the following information:
 
  - Which platform are you using? (Which device and operating system)
- - Which version of Copay are you using? (Check Copay version on the side menu)
+ - Which version of MyBitcoinZ are you using? (Check MyBitcoinZ version on the side menu)
  - Please import your wallet on a different platform. Does the problem persist?
  - What type of wallet are you using? (multisig or singlesig)
  - When the wallet was created? On which device / operating system
- - Please check Copay logs (General Settings -> About Copay -> Session Logs). Look for 
+ - Please check MyBitcoinZ logs (General Settings -> About MyBitcoinZ -> Session Logs). Look for
  any errors reported there (errors are shown in red)
  - If possible, please provide a screenshot of the error / issue.
- 
-If you need to provide personal / sensitive data to solve the issue (like the Wallet Id), do not use Github Issues. 
+
+If you need to provide personal / sensitive data to solve the issue (like the Wallet Id), do not use Github Issues.
 We will provide a better channel (like an BitPay email address) so you can send the information. If possible, please
 encrypt your emails using GnuPG.
 
-To open an issue go to [Github Issues](https://github.com/bitpay/copay/issues).
+To open an issue go to [Github Issues](https://github.com/anthony19114/MyBitcoinZ/issues).
 
 <a name="pull-requests"></a>
 ## Pull requests
@@ -108,7 +108,7 @@ implementing features, refactoring code, porting to a different language),
 otherwise you risk spending a lot of time working on something that the
 project's developers might not want to merge into the project.
 
-Please adhere to the coding conventions used throughout Copay (indentation, tests, etc.)
+Please adhere to the coding conventions used throughout MyBitcoinZ (indentation, tests, etc.)
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owner to
 license your work under the same license as that used by the project.
